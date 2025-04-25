@@ -5,12 +5,12 @@
 
 ---
 
-##  公開URL（CloudFront経由）
+## 公開URL（CloudFront経由）
 [https://d3145qfbwv744j.cloudfront.net]
 
 ---
 
-##  構成
+## 構成
 
 - `index.html`：トップページ（自己紹介・スキル一覧）
 - `contact.html`：問い合わせフォーム（HTMLのみ）
