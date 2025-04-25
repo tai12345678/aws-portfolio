@@ -24,6 +24,11 @@
 
 | フロントエンド | HTML / CSS |
 | クラウドホスティング | AWS S3 + CloudFront |
-| ドメイン | CloudFront デフォルトドメイン利用（無料枠） |
+| ドメイン | CloudFront デフォルトドメイン利用|
 | バージョン管理 | Git / GitHub |
+---
 
+## デプロイ手順（ローカル → S3）
+
+```bash
+aws s3 sync . s3://your-bucket-name --delete
