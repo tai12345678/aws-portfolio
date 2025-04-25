@@ -6,7 +6,7 @@
 ---
 
 ## 公開URL（CloudFront経由）
-[https://d3145qfbwv744j.cloudfront.net]
+[https://d3145qfbwv744j.cloudfront.net](https://d3145qfbwv744j.cloudfront.net)
 
 ---
 
