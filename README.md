@@ -31,4 +31,4 @@
 ## デプロイ手順（ローカル → S3）
 
 ```bash
-aws s3 sync . s3://your-bucket-name --delete
+aws s3 sync . s3://02-portfolio-sato --delete
